@@ -1,0 +1,1 @@
+DNS NAmE: Ekram-App-ALB-526693383.us-east-2.elb.amazonaws.com

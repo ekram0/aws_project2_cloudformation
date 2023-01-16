@@ -1,0 +1,30 @@
+[{
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "Ekram-App"
+    },
+    {
+        "ParameterKey": "BucketName",
+        "ParameterValue": "demo-website-010009901100"
+    },
+
+    {
+        "ParameterKey": "MinCapacity",
+        "ParameterValue": "2"
+    },
+    {
+        "ParameterKey": "MaxCapacity",
+        "ParameterValue": "4"
+    },
+    {
+        "ParameterKey": "DesiredCapacity",
+        "ParameterValue": "2"
+    },
+    {
+        "ParameterKey": "CPUPolicyTargetValue",
+        "ParameterValue": "30"
+    },
+    {
+        "ParameterKey": "JumpboxKeyName",
+        "ParameterValue": "proj2-jumpbox-key"
+    }
+]
